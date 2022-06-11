@@ -10,15 +10,13 @@ This is a Django web application that emulates the basic functionalities of the 
  Click this link https://livecollageig.herokuapp.com/  to visit the site.
   
 ## Screenshots 
- ## Home page
- <img src="https://user-images.githubusercontent.com/100420952/171779725-b0cec5a9-51d8-4fa0-a755-0458bc3ac90d.png">
+ <img src="https://user-images.githubusercontent.com/100420952/173181487-c2925c0b-49c8-4e2a-b8f2-6159841da6c0.png">
 
- ## Search results
- <img src="https://user-images.githubusercontent.com/100420952/171779580-69c96414-9d55-4548-bfb6-22ffc2831ac4.png">
+ <img src="https://user-images.githubusercontent.com/100420952/173181535-d446cb57-2d30-4704-a3a0-829c7817f400.png">
  
- ## Image Details 
-<img src="https://user-images.githubusercontent.com/100420952/171779811-7943a066-f72f-4ce7-b85b-1b02ecd20c74.png">
+<img src="https://user-images.githubusercontent.com/100420952/173181569-3935a3f3-a474-4890-827c-dc055a26b6e3.png">
 
+<img src="https://user-images.githubusercontent.com/100420952/173181625-b5d9ae1a-b520-439f-ba85-9e1d81e744f8.png">
  
 ## User Story  
   
